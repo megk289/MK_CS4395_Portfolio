@@ -9,3 +9,6 @@ This program takes in an Excel file for processing. The file holds a Person's in
 
 ## Portfolio 2: Word Guess Game
 This program takes in raw text and processes it. The important words are lemmatized and the nouns are separated. The 50 most commonly used nouns in the text will be used for a word guessing game. In this game, the user will have to guess a letter. If the letter is in the word they need to guess, they get a point. The python file can be viewed [here](Homework2_mxk190048.py).
+
+## Portfolio 3: WordNet
+This program demonstrates and explains some of the features of WordNet and SentiWordNet. It details some of the tools and algorithms within WordNet as well as applications for them. The file can be viewed [here](Homework3_mxk190048.py).
