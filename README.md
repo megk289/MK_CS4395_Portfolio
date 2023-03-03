@@ -12,3 +12,6 @@ This program takes in raw text and processes it. The important words are lemmati
 
 ## Portfolio 3: WordNet
 This program demonstrates and explains some of the features of WordNet and SentiWordNet. It details some of the tools and algorithms within WordNet as well as applications for them. The file can be viewed [here](Homework3_mxk190048.py).
+
+## Sentence Parsing
+This file demonstrates different sentence parsing methods like PSG trees, dependency parses, and SRL parses. The file can be viewed [here](Sentence_Parsing-MXK190048).
