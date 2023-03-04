@@ -15,3 +15,6 @@ This program demonstrates and explains some of the features of WordNet and Senti
 
 ## Sentence Parsing
 This file demonstrates different sentence parsing methods like PSG trees, dependency parses, and SRL parses. The file can be viewed [here](Sentence_Parsing-MXK190048).
+
+## Portfolio 4: N-grams
+The program creates unigram and bigram dictionaries for English, French, and Italian using a training corpus. Given test data, the program calculates the probability of a line being in English, French, and Italian. It then chooses the language with the highest probability and outputs it to a file. It also outputs the accuracy of language detection and the line numbers of misidentified items. Program 1 constructs the language model and program 2 calculates accuracy. The document includes more details about n-grams. The files can be found [here](Homework4_mxk190048).
