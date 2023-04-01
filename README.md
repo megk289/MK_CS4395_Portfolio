@@ -11,7 +11,7 @@ This program takes in an Excel file for processing. The file holds a Person's in
 This program takes in raw text and processes it. The important words are lemmatized and the nouns are separated. The 50 most commonly used nouns in the text will be used for a word guessing game. In this game, the user will have to guess a letter. If the letter is in the word they need to guess, they get a point. The python file can be viewed [here](Homework2_mxk190048.py).
 
 ## Portfolio 3: WordNet
-This program demonstrates and explains some of the features of WordNet and SentiWordNet. It details some of the tools and algorithms within WordNet as well as applications for them. The file can be viewed [here](Homework3_mxk190048.py).
+This program demonstrates and explains some of the features of WordNet and SentiWordNet. It details some of the tools and algorithms within WordNet as well as applications for them. The file can be viewed [here](Homework3_mxk190048.pdf).
 
 ## Sentence Parsing
 This file demonstrates different sentence parsing methods like PSG trees, dependency parses, and SRL parses. The file can be viewed [here](Sentence_Parsing-MXK190048).
@@ -21,3 +21,6 @@ The program creates unigram and bigram dictionaries for English, French, and Ita
 
 ## Portfolio 5: Web Crawler
 This program builds a web crawler. It uses a starter url and "crawls" along a web of links to gather information. The information is scraped and the most important terms are taken from it. This is used to create a simple knowledge base. The document details the process of building the knowledge base. The files can be found [here](Homework5_mxk190048.zip).
+
+## Portfolio 6: Text Classification
+This program desmonstrates the following algorithms as they are performed on a data set: Naive Bayes, Logistic Regression, and Neural Networks. It examines the performace of each algorithm on the given data set. The file can be viewed [here](Text_Classification-MXK190048.pdf).
