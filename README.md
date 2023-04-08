@@ -24,3 +24,6 @@ This program builds a web crawler. It uses a starter url and "crawls" along a we
 
 ## Portfolio 6: Text Classification
 This program desmonstrates the following algorithms as they are performed on a data set: Naive Bayes, Logistic Regression, and Neural Networks. It examines the performace of each algorithm on the given data set. The file can be viewed [here](Text_Classification-MXK190048.pdf).
+
+## Reading ACL Papers
+This document summarizes the experiments done here: https://aclanthology.org/2022.acl-long.23.pdf. The researxh paper being summarized discusses new approaches for dialogue disentanglement. The summary paper can be viewed [here](Reading_ACL_Papers-mxk190048).
