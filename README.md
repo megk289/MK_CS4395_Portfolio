@@ -28,5 +28,5 @@ This program desmonstrates the following algorithms as they are performed on a d
 ## Reading ACL Papers
 This document summarizes the experiments done here: https://aclanthology.org/2022.acl-long.23.pdf. The researxh paper being summarized discusses new approaches for dialogue disentanglement. The summary paper can be viewed [here](Reading_ACL_Papers-mxk190048).
 
-## Chatbot Report
+## Chatbot
 This program builds a chatbot based on Hamlet. The code can be found [here](main.py) and the report [here](Chatbot_Report.pdf)
