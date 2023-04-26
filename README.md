@@ -1,5 +1,10 @@
 # MK_CS4395_Portfolio
-Projects for Human Language Technologies (CS 4395)
+Through this course, I gained a better understanding of NLP techniques from focusing on words and sentences to entire documents. I have worked with tools like tokenizers, WordNet, n-grams, web scrapers and text classification algorithms. Through these projects, I have applied all of these techniques in new ways. 
+
+I have always been interested in the interactions between natural languages and computers. Applications that use NLP are fascinating and very important in modern society. Google Translate, Siri, and chatbots are all forms of NLP. As our world rapidly changes around us, it is essential that our technology adapts to it. Working with NLP techniques has only encouraged my interest in this field; to push the boundaries of how computers can make our lives easier. 
+
+## Skills Page
+This page details the technical and soft skills I have honed over the course of this semester. The page can be found [here](skills_mxk190048).
 
 ## Overview of NLP
 This document is an introduction to natural language processing (NLP). It can be viewed [here](Overview_of_NLP.pdf).
@@ -23,13 +28,13 @@ The program creates unigram and bigram dictionaries for English, French, and Ita
 This program builds a web crawler. It uses a starter url and "crawls" along a web of links to gather information. The information is scraped and the most important terms are taken from it. This is used to create a simple knowledge base. The document details the process of building the knowledge base. The files can be downloaded from the zip file [here](Homework5_mxk190048.zip).
 
 ## Text Classification 1
-This program desmonstrates the following algorithms as they are performed on a data set: Naive Bayes, Logistic Regression, and Neural Networks. It examines the performace of each algorithm on the given data set. The file can be viewed [here](Text_Classification-MXK190048.pdf).
+This program demonstrates the following algorithms as they are performed on a data set: Naive Bayes, Logistic Regression, and Neural Networks. It examines the performance of each algorithm on the given data set. The file can be viewed [here](Text_Classification-MXK190048.pdf).
 
 ## Reading ACL Papers
-This document summarizes the experiments done here: https://aclanthology.org/2022.acl-long.23.pdf. The researxh paper being summarized discusses new approaches for dialogue disentanglement. The summary paper can be viewed [here](Reading_ACL_Papers-mxk190048.pdf).
+This document summarizes the experiments done here: https://aclanthology.org/2022.acl-long.23.pdf. The research paper being summarized discusses new approaches for dialogue disentanglement. The summary paper can be viewed [here](Reading_ACL_Papers-mxk190048.pdf).
 
 ## Chatbot
 This program builds a chatbot based on Hamlet. The code can be found [here](main.py) and the report [here](Chatbot_Report.pdf)
 
 ## Text Classification 2
-This program desmonstrates the following algorithms as they are performed on a data set: the Sequential Model, RNNs, CNNs, and Embeddings. It examines the performace of each algorithm on the given data set. The file can be viewed [here](Text_Classification_2-MXK190048.pdf).
+This program demonstrates the following algorithms as they are performed on a data set: the Sequential Model, RNNs, CNNs, and Embeddings. It examines the performance of each algorithm on the given data set. The file can be viewed [here](Text_Classification_2-MXK190048.pdf).
