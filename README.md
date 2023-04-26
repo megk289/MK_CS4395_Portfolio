@@ -32,4 +32,4 @@ This document summarizes the experiments done here: https://aclanthology.org/202
 This program builds a chatbot based on Hamlet. The code can be found [here](main.py) and the report [here](Chatbot_Report.pdf)
 
 ## Text Classification 2
-This program desmonstrates the following algorithms as they are performed on a data set: the Sequential Model, RNNs, CNNs, and Embeddings. It examines the performace of each algorithm on the given data set. The file can be viewed [here](Text_Classification_2_MXK190048.ipynb).
+This program desmonstrates the following algorithms as they are performed on a data set: the Sequential Model, RNNs, CNNs, and Embeddings. It examines the performace of each algorithm on the given data set. The file can be viewed [here](Text_Classification_2_MXK190048.pdf).
