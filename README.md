@@ -4,7 +4,7 @@ Through this course, I gained a better understanding of NLP techniques from focu
 I have always been interested in the interactions between natural languages and computers. Applications that use NLP are fascinating and very important in modern society. Google Translate, Siri, and chatbots are all forms of NLP. As our world rapidly changes around us, it is essential that our technology adapts to it. Working with NLP techniques has only encouraged my interest in this field; to push the boundaries of how computers can make our lives easier. 
 
 ## Skills Page
-This page details the technical and soft skills I have honed over the course of this semester. The page can be found [here](skills_mxk190048).
+This page details the technical and soft skills I have honed over the course of this semester. The page can be found [here](skills_mxk190048.pdf).
 
 ## Overview of NLP
 This document is an introduction to natural language processing (NLP). It can be viewed [here](Overview_of_NLP.pdf).
